@@ -1,0 +1,43 @@
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.exe.config
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.exe
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.pdb
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.Properties.Resources.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn1.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.csproj.GenerateResource.Cache
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.exe
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.pdb
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn2.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn3.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn4.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn5.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn6.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn7.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn8.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.exe.config
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.exe
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.pdb
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.exe
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\bin\Debug\övningar WinForms.pdb
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.csprojResolveAssemblyReference.cache
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn5.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.Properties.Resources.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn1.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn2.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn3.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn4.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn6.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn7.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmÖvn8.resources
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar WinForms.csproj.GenerateResource.Cache
+F:\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmExc9.resources
+C:\Users\Albin\Dropbox\skoleri skolera\grundkurs c#\vecka 2\övningar WinForms\övningar WinForms\obj\Debug\övningar_WinForms.frmExc9.resources
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\bin\Debug\övningar WinForms.exe.config
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.exe
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.pdb
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\bin\Debug\övningar WinForms.exe
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\bin\Debug\övningar WinForms.pdb
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.csprojResolveAssemblyReference.cache
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar_WinForms.Properties.Resources.resources
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar_WinForms.frmExc9.resources
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.csproj.GenerateResource.Cache

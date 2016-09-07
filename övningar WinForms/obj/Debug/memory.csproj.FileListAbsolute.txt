@@ -1,0 +1,3 @@
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\bin\Debug\övningar WinForms.exe.config
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.exe
+C:\Users\Albin\Source\Repos\nackademin\aeklundh\memory\övningar WinForms\obj\Debug\övningar WinForms.pdb
